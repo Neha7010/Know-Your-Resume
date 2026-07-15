@@ -15,10 +15,6 @@ An AI-powered chatbot that allows users to upload a resume (PDF) and interact wi
 
 ---
 
-## 📸 Screenshot
-<p align="center">
-  <img src="screenshots/home.png" width="900">
-</p>
 
 ## 🛠️ Tech Stack
 
