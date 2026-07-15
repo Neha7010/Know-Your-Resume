@@ -16,13 +16,9 @@ An AI-powered chatbot that allows users to upload a resume (PDF) and interact wi
 ---
 
 ## 📸 Screenshot
-
 <p align="center">
-  <img src="<img width="1895" height="900" alt="Screenshot" src="https://github.com/user-attachments/assets/797a898f-4115-4d9d-99a2-aed3a7a6d2e8" />
-.png" alt="Know Your Resume" width="850">
+  <img src="screenshots/home.png" width="900">
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
